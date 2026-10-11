@@ -9,22 +9,22 @@ A modular, lightweight, and fully native mod for **Baldur's Gate 3 (Patch 7+)** 
 
 ---
 
-## 🌟 Key Features
+##  Key Features
 
-- **⚡ 1-Click Group Buffing:** Cast all your desired camp buffs instantly on yourself and all allies/summons within **35 meters** via a zero-cost shout spell.
-- **🎛️ Individual Hotbar Toggles:** Every buff can be individually turned ON or OFF under the **Passives** tab of your action bar. Only selected buffs are cast!
-- **📶 Scalable Aid (Level 2 to Level 6):** Choose the exact tier of the Aid spell (+5, +10, +15, +20, or +25 Max HP) that matches your party level. A built-in priority system ensures only the highest enabled tier is applied.
-- **🧹 Dedicated "Remove Buffs" Spell:** Clear all camp buffs at any time with a single click.
-- **🎒 Guaranteed Ring Delivery:**
+- ** 1-Click Group Buffing:** Cast all your desired camp buffs instantly on yourself and all allies/summons within **35 meters** via a zero-cost shout spell.
+- ** Individual Hotbar Toggles:** Every buff can be individually turned ON or OFF under the **Passives** tab of your action bar. Only selected buffs are cast!
+- ** Scalable Aid (Level 2 to Level 6):** Choose the exact tier of the Aid spell (+5, +10, +15, +20, or +25 Max HP) that matches your party level. A built-in priority system ensures only the highest enabled tier is applied.
+- ** Dedicated "Remove Buffs" Spell:** Clear all camp buffs at any time with a single click.
+- ** Guaranteed Ring Delivery:**
   - **Camp Traveller's Chest:** Uses Patch 7's official `OneTimeRewards` system to deposit 2 copies into your camp chest automatically—works on **new games AND existing saves**.
   - **Comprehensive Merchants:** Sold by all major merchants across Act 1, Act 2, and Act 3 for just **1 Gold**.
   - **Tutorial Chest:** Available in the Cartilaginous Chest on the Nautiloid.
-- **🛡️ 100% Native & Stable:** Built entirely with native Larian stats and templates. **No Script Extender (SE) required**. Full controller and keyboard/mouse UI support.
-- **🔄 Conflict-Free Compatibility:** Fully tested and compatible with major overhauls, including **Ancient Mega Pack (AMP)** across all vendor table variants.
+- ** 100% Native & Stable:** Built entirely with native Larian stats and templates. **No Script Extender (SE) required**. Full controller and keyboard/mouse UI support.
+- ** Conflict-Free Compatibility:** Fully tested and compatible with major overhauls, including **Ancient Mega Pack (AMP)** across all vendor table variants.
 
 ---
 
-## 📦 Modular Architecture
+##  Modular Architecture
 
 The mod is divided into two separate, modular packages:
 
@@ -35,7 +35,7 @@ The mod is divided into two separate, modular packages:
 
 ---
 
-## 📜 Included Buffs
+##  Included Buffs
 
 ### 1. Base Mod: Vanilla Buffs (`CampBuffs.pak`)
 
@@ -83,7 +83,7 @@ The mod is divided into two separate, modular packages:
 
 ---
 
-## 🎮 How to Use
+##  How to Use
 
 1. **Obtain the Ring(s):**
    - Go to your camp and open the **Traveller's Chest** (2 rings are waiting inside).
@@ -101,7 +101,7 @@ The mod is divided into two separate, modular packages:
 
 ---
 
-## 📥 Installation
+##  Installation
 
 ### Method 1: Baldur's Gate 3 Mod Manager (Recommended)
 1. Download `CampBuffs-v1.0.0.zip` (and `CampBuffsModBuffs-v1.0.0.zip` if desired) from the official [Releases](https://github.com/SunricesS/BG3-CampBuffs/releases) page.
@@ -118,12 +118,12 @@ The mod is divided into two separate, modular packages:
 2. Launch Baldur's Gate 3 and open the **Mod Manager** from the main menu.
 3. Enable the mod(s) in the list and apply changes.
 
-### ⚠️ Load Order Advice
+###  Load Order Advice
 If you use loot or shop overhaul mods such as **Ancient Mega Pack (AMP)**:
 - Place `CampBuffs` and `CampBuffsModBuffs` **below** Ancient Mega Pack in your load order.
 - This ensures the rings appear in vendor inventories regardless of vendor table overrides.
 
-### 🗑️ Safe Uninstallation
+###  Safe Uninstallation
 To cleanly remove the mod without corrupting your save files:
 1. **Cast "Remove Camp Buffs":** Use the "Remove Camp Buffs" spell in-game to clear all active mod statuses from your entire party.
 2. **Unequip Rings:** Remove `CampBuffs_Ring` and `CampBuffs_ModBuffs_Ring` from all characters.
@@ -161,7 +161,7 @@ The build scripts will automatically generate DDS textures, UI metadata, RootTem
 
 ---
 
-## 🇹🇷 Türkçe Açıklama & Rehber
+##  Türkçe Açıklama & Rehber
 
 ### Genel Bakış
 **CampBuffs**, Baldur's Gate 3'te her uzun dinlenme (Long Rest) sonrası tek tek büyü basma zahmetini ortadan kaldıran pratik bir moddur. Yüzüğü taktığınızda eylem çubuğunuza gelen büyüyle, seçtiğiniz tüm kamp büyülerini tek tıkla 35 metre içindeki tüm grubunuza uygularsınız.
@@ -181,7 +181,7 @@ The build scripts will automatically generate DDS textures, UI metadata, RootTem
 2. `C:\Users\<KullanıcıAdınız>\AppData\Local\Larian Studios\Baldur's Gate 3\Mods\` klasörüne kopyalayın.
 3. BG3 Mod Manager veya oyun içi mod yöneticisinden aktifleştirip kaydedin.
 
-### 🗑️ Güvenli Mod Kaldırma (Safe Uninstallation)
+###  Güvenli Mod Kaldırma (Safe Uninstallation)
 Kayıt dosyanızın (save) zarar görmemesi ve modun sorunsuz kaldırılması için şu adımları izleyin:
 1. **Büyüleri Temizleyin:** Oyunda "Remove Camp Buffs" (Buffları Kaldır) büyüsünü kullanarak tüm gruptaki aktif mod bufflarını temizleyin.
 2. **Yüzükleri Çıkarın:** Karakterlerinizin üzerindeki mod yüzüklerini (`CampBuffs_Ring`, `CampBuffs_ModBuffs_Ring`) çıkarıp envantere veya sandığa koyun.
@@ -190,7 +190,7 @@ Kayıt dosyanızın (save) zarar görmemesi ve modun sorunsuz kaldırılması i�
 
 ---
 
-## 📄 License & Legal Notice
+##  License & Legal Notice
 
 This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License ([CC BY-NC 4.0](LICENSE))**.
 
@@ -198,7 +198,7 @@ You are free to share, copy, and adapt this material for **non-commercial** purp
 
 ---
 
-## ⚖️ Legal Disclaimer (Yasal Uyarı)
+##  Legal Disclaimer (Yasal Uyarı)
 
 - **Baldur's Gate 3** is a registered trademark of **Larian Studios Games Ltd.**
 - **Dungeons & Dragons (D&D)**, Forgotten Realms, and associated names and mechanics are trademarks and copyrights of **Wizards of the Coast LLC**, a subsidiary of **Hasbro, Inc.**
