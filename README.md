@@ -2,8 +2,8 @@
 
 [![Game Version](https://img.shields.io/badge/Baldur's%20Gate%203-Patch%207%2B-blue.svg)](https://baldursgate3.game)
 [![Script Extender](https://img.shields.io/badge/Script%20Extender-Not%20Required%20(100%25%20Native)-success.svg)](#)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Release](https://img.shields.io/badge/Release-v1.0.0-orange.svg)](Releases/)
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](LICENSE)
+[![Release](https://img.shields.io/badge/Release-v1.0.0-orange.svg)](https://github.com/SunricesS/BG3-CampBuffs/releases)
 
 A modular, lightweight, and fully native mod for **Baldur's Gate 3 (Patch 7+)** that automates the tedious daily routine of camp buffing. Equip the ring, select your preferred buffs in the Passives hotbar tab, and apply all enabled buffs to your entire party with a single click.
 
@@ -104,7 +104,7 @@ The mod is divided into two separate, modular packages:
 ## 📥 Installation
 
 ### Method 1: Baldur's Gate 3 Mod Manager (Recommended)
-1. Download `CampBuffs-v1.0.0.zip` (and `CampBuffsModBuffs-v1.0.0.zip` if desired) from the [Releases](Releases/) folder.
+1. Download `CampBuffs-v1.0.0.zip` (and `CampBuffsModBuffs-v1.0.0.zip` if desired) from the official [Releases](https://github.com/SunricesS/BG3-CampBuffs/releases) page.
 2. Open **BG3 Mod Manager**.
 3. Drag and drop the `.zip` or `.pak` files into the manager window.
 4. Move `CampBuffs` (and `CampBuffsModBuffs`) from the right pane (Inactive) to the left pane (Active).
@@ -123,6 +123,13 @@ If you use loot or shop overhaul mods such as **Ancient Mega Pack (AMP)**:
 - Place `CampBuffs` and `CampBuffsModBuffs` **below** Ancient Mega Pack in your load order.
 - This ensures the rings appear in vendor inventories regardless of vendor table overrides.
 
+### 🗑️ Safe Uninstallation
+To cleanly remove the mod without corrupting your save files:
+1. **Cast "Remove Camp Buffs":** Use the "Remove Camp Buffs" spell in-game to clear all active mod statuses from your entire party.
+2. **Unequip Rings:** Remove `CampBuffs_Ring` and `CampBuffs_ModBuffs_Ring` from all characters.
+3. **Save Game:** Create a fresh manual save file (do not rely solely on autosave/quicksave).
+4. **Remove Mod:** Disable or delete the mod in your mod manager, or delete the `.pak` file(s) from your `%LocalAppData%\Larian Studios\Baldur's Gate 3\Mods\` directory.
+
 ---
 
 ## 🛠️ Building from Source
@@ -137,7 +144,7 @@ The repository includes complete build automation using Python and LSLib's Divin
 ### Build Commands
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/BG3-CampBuffs.git
+git clone https://github.com/SunricesS/BG3-CampBuffs.git
 cd BG3-CampBuffs
 
 # Install dependencies
@@ -170,12 +177,31 @@ The build scripts will automatically generate DDS textures, UI metadata, RootTem
 - **%100 Patch 7 Uyumlu:** Script Extender gerektirmez, doğrudan oyun motorunun yerel sistemiyle çalışır.
 
 ### Kurulum
-1. [Releases](Releases/) klasöründen `.pak` dosyalarını indirin.
-2. `C:\Users\<KullanıcıAdınız>\AppData\Local\Larian Studios\Baldur's Gate 3\Mods\` klasörüne yapıştırın.
+1. [Releases (Sürümler)](https://github.com/SunricesS/BG3-CampBuffs/releases) sayfasından `.pak` dosyalarını veya `.zip` arşivini indirin.
+2. `C:\Users\<KullanıcıAdınız>\AppData\Local\Larian Studios\Baldur's Gate 3\Mods\` klasörüne kopyalayın.
 3. BG3 Mod Manager veya oyun içi mod yöneticisinden aktifleştirip kaydedin.
+
+### 🗑️ Güvenli Mod Kaldırma (Safe Uninstallation)
+Kayıt dosyanızın (save) zarar görmemesi ve modun sorunsuz kaldırılması için şu adımları izleyin:
+1. **Büyüleri Temizleyin:** Oyunda "Remove Camp Buffs" (Buffları Kaldır) büyüsünü kullanarak tüm gruptaki aktif mod bufflarını temizleyin.
+2. **Yüzükleri Çıkarın:** Karakterlerinizin üzerindeki mod yüzüklerini (`CampBuffs_Ring`, `CampBuffs_ModBuffs_Ring`) çıkarıp envantere veya sandığa koyun.
+3. **Oyunu Kaydedin:** Temiz bir manuel kayıt (Manual Save) alın.
+4. **Modu Kaldırın:** Mod yöneticisinden modu devre dışı bırakın veya `.pak` dosyasını `Mods/` klasöründen silin.
 
 ---
 
-## 📄 License
+## 📄 License & Legal Notice
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License ([CC BY-NC 4.0](LICENSE))**.
+
+You are free to share, copy, and adapt this material for **non-commercial** purposes, provided appropriate credit is given. Commercial distribution, sale, or paywalling of this mod or any derivative works is strictly prohibited.
+
+---
+
+## ⚖️ Legal Disclaimer (Yasal Uyarı)
+
+- **Baldur's Gate 3** is a registered trademark of **Larian Studios Games Ltd.**
+- **Dungeons & Dragons (D&D)**, Forgotten Realms, and associated names and mechanics are trademarks and copyrights of **Wizards of the Coast LLC**, a subsidiary of **Hasbro, Inc.**
+- This project is an **unofficial, non-profit, fan-made modification** created solely for community entertainment.
+- It is **not endorsed by, sponsored by, or affiliated with** Larian Studios or Wizards of the Coast.
+- All original game assets, engine logic, and intellectual properties belong to their respective copyright holders.
