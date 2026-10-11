@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <content contentuid="h123456789abcdef0123456789abcdef01234" version="1">Kamp Buffları Yüzüğü</content>
+  <content contentuid="h01a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8" version="1">Seçilen tüm kamp bufflarını tek bir büyüyle tüm gruba uygular. Hangi buffların basılacağını kısayol çubuğundaki pasif butonlardan açıp kapatabilirsiniz.</content>
+  <content contentuid="h7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b3c4" version="1">Kamp Bufflarını Uygula</content>
+  <content contentuid="h8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b3c4d5" version="1">Açık olan tüm kamp bufflarını 30 metre içindeki tüm müttefiklere uygular.</content>
+  <content contentuid="hrem01928ga812g4918g8123ga91823746152" version="1">Kamp Bufflarını Kaldır</content>
+  <content contentuid="hrem12938gb923g4029g9234gb02934857263" version="1">Uygulanmış tüm kamp bufflarını 30 metre içindeki tüm müttefiklerden kaldırır.</content>
+  <content contentuid="h3a4b5c6d7e8f9a0b1c2d3e4f5a6b7c8d9e0" version="1">Kamp Buffı: Uzun Adım (Longstrider)</content>
+  <content contentuid="h4b5c6d7e8f9a0b1c2d3e4f5a6b7c8d9e0f1" version="1">+3 metre hareket mesafesi sağlar.</content>
+  <content contentuid="h5c6d7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2" version="1">Kamp Buffı: Büyücü Zırhı (Mage Armor)</content>
+  <content contentuid="h6d7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b3" version="1">Zırhsız karakterlerin temel Zırh Sınıfını (AC) 13 yapar.</content>
+  <content contentuid="haid2_name_01928374" version="1">Kamp Buffı: Destek (Aid Seviye 2: +5 Can)</content>
+  <content contentuid="haid2_desc_01928374" version="1">Maksimum canı 5 artırır.</content>
+  <content contentuid="haid3_name_01928374" version="1">Kamp Buffı: Destek (Aid Seviye 3: +10 Can)</content>
+  <content contentuid="haid3_desc_01928374" version="1">Maksimum canı 10 artırır.</content>
+  <content contentuid="haid4_name_01928374" version="1">Kamp Buffı: Destek (Aid Seviye 4: +15 Can)</content>
+  <content contentuid="haid4_desc_01928374" version="1">Maksimum canı 15 artırır.</content>
+  <content contentuid="haid5_name_01928374" version="1">Kamp Buffı: Destek (Aid Seviye 5: +20 Can)</content>
+  <content contentuid="haid5_desc_01928374" version="1">Maksimum canı 20 artırır.</content>
+  <content contentuid="haid6_name_01928374" version="1">Kamp Buffı: Destek (Aid Seviye 6: +25 Can)</content>
+  <content contentuid="haid6_desc_01928374" version="1">Maksimum canı 25 artırır.</content>
+  <content contentuid="hc1928374gf716g4318ga615g316274859102" version="1">Kamp Buffı: Ölüm Koruması (Death Ward)</content>
+  <content contentuid="hd2837465ge615g4217gb514g205163748291" version="1">Ölümcül hasar alındığında 1 Can ile hayatta kalmayı sağlar.</content>
+  <content contentuid="he1827364gb514g4116ga413g118495061273" version="1">Kamp Buffı: Hareket Özgürlüğü (Freedom of Movement)</content>
+  <content contentuid="hf0918273gc413g4015ga312g019506172384" version="1">Felç, kısıtlama ve zorlu zemin etkilerine karşı tam bağışıklık sağlar.</content>
+  <content contentuid="ha1928374gd312g4914gb211gf08493027164" version="1">Kamp Buffı: Zehirden Korunma (Protection from Poison)</content>
+  <content contentuid="hb0918273ge211g4813ga110ge07382916253" version="1">Zehir hasarına direnç ve zehre karşı kurtarma zarlarında avantaj sağlar.</content>
+  <content contentuid="hc1827364gf110g4712ga009gd06271829364" version="1">Kamp Buffı: Karanlık Görüşü (Darkvision)</content>
+  <content contentuid="hd0918273ga009g4611g9f08gc05160718273" version="1">12 metre karanlıkta görme yeteneği kazandırır.</content>
+  <content contentuid="he1928374g9f08g4510g8e07gb04059607182" version="1">Kamp Buffı: Kahramanlar Ziyafeti (Heroes' Feast)</content>
+  <content contentuid="hf0827364g8e07g4409g7d06ga03948576192" version="1">+12 Maks Can, zehir ve korkuya bağışıklık, Bilgelik zarlarında avantaj sağlar.</content>
+  <content contentuid="ha0827364g7d06g4308g6c05g902837465182" version="1">Kamp Buffı: Hayvanlarla Konuşma (Speak with Animals)</content>
+  <content contentuid="hb1726354g6c05g4207g5b04g801726354192" version="1">Hayvanlarla konuşma yeteneği sağlar.</content>
+  <content contentuid="hc1726354g5b04g4106g4a03g700615243182" version="1">Kamp Buffı: Günışığı (Daylight)</content>
+  <content contentuid="hd0615243g4a03g4005g3902g609504132173" version="1">Etrafınıza aydınlatıcı Günışığı aurası yayar.</content>
+  <content contentuid="hguid01928ga812g4918g8123ga91823746152" version="1">Kamp Buffı: Rehberlik (Guidance)</content>
+  <content contentuid="hguid12938gb923g4029g9234gb02934857263" version="1">Yetenek kontrollerine +1d4 bonus sağlar.</content>
+  <content contentuid="hbless0192ga812g4918g8123ga91823746152" version="1">Kamp Buffı: Kutsama (Bless)</content>
+  <content contentuid="hbless1293gb923g4029g9234gb02934857263" version="1">Saldırı ve kurtarma zarlarına +1d4 bonus sağlar.</content>
+  <content contentuid="hfaith0192ga812g4918g8123ga91823746152" version="1">Kamp Buffı: İnanç Kalkanı (Shield of Faith)</content>
+  <content contentuid="hfaith1293gb923g4029g9234gb02934857263" version="1">+2 Zırh Sınıfı (AC) sağlar.</content>
+  <content contentuid="hstone0192ga812g4918g8123ga91823746152" version="1">Kamp Buffı: Taş Deri (Stoneskin)</content>
+  <content contentuid="hstone1293gb923g4029g9234gb02934857263" version="1">Büyülü olmayan ezici, delici ve kesici hasara direnç sağlar.</content>
+  <content contentuid="hbark0192ga812g4918g8123ga91823746152" version="1">Kamp Buffı: Ağaç Kabuğu (Barkskin)</content>
+  <content contentuid="hbark1293gb923g4029g9234gb02934857263" version="1">Zırh Sınıfı 16'dan aşağı düşemez.</content>
+  <content contentuid="hseein0192ga812g4918g8123ga91823746152" version="1">Kamp Buffı: Görünmezliği Görme (See Invisibility)</content>
+  <content contentuid="hseein1293gb923g4029g9234gb02934857263" version="1">Görünmez yaratıkları görme yeteneği kazandırır.</content>
+  <content contentuid="hfeath0192ga812g4918g8123ga91823746152" version="1">Kamp Buffı: Tüy Düşüşü (Feather Fall)</content>
+  <content contentuid="hfeath1293gb923g4029g9234gb02934857263" version="1">Düşme hasarına karşı tam bağışıklık sağlar.</content>
+  <content contentuid="hjump0192ga812g4918g8123ga91823746152" version="1">Kamp Buffı: Gelişmiş Zıplama (Enhanced Leap)</content>
+  <content contentuid="hjump1293gb923g4029g9234gb02934857263" version="1">Zıplama mesafesini 3 katına çıkarır.</content>
+  <content contentuid="hhill0192ga812g4918g8123ga91823746152" version="1">Kamp Buffı: Tepe Dev Gücü (Hill Giant Strength)</content>
+  <content contentuid="hhill1293gb923g4029g9234gb02934857263" version="1">Kuvvet değerini 21'e ayarlar.</content>
+  <content contentuid="hcloud0192ga812g4918g8123ga91823746152" version="1">Kamp Buffı: Bulut Dev Gücü (Cloud Giant Strength)</content>
+  <content contentuid="hcloud1293gb923g4029g9234gb02934857263" version="1">Kuvvet değerini 27'ye ayarlar.</content>
+  <content contentuid="hmorn0192ga812g4918g8123ga91823746152" version="1">Kamp Buffı: Morninglord Işıltısı (Morninglord's Radiance)</content>
+  <content contentuid="hmorn1293gb923g4029g9234gb02934857263" version="1">Silah saldırılarına +1d4 Işıltılı hasar ekler.</content>
+  <content contentuid="he0615243g3902g4904g2801g508493021164" version="1">Kamp Buffı: Koruma Bağı (Warding Bond)</content>
+  <content contentuid="hf1524354g2801g4803g1700g407382910155" version="1">Kamp Koruma Bağı (+1 AC, +1 Kurtarma Zarları, Tüm hasarlara Direnç).</content>
+</contentList>

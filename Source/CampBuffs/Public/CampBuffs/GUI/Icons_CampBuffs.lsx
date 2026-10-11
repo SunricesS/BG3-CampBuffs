@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="IconUVList">
+        <node id="root">
+            <children>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="CampBuffs_CastAll"/>
+                    <attribute id="U1" type="float" value="0.0"/>
+                    <attribute id="U2" type="float" value="1.0"/>
+                    <attribute id="V1" type="float" value="0.0"/>
+                    <attribute id="V2" type="float" value="1.0"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="CampBuffs_Icon"/>
+                    <attribute id="U1" type="float" value="0.0"/>
+                    <attribute id="U2" type="float" value="1.0"/>
+                    <attribute id="V1" type="float" value="0.0"/>
+                    <attribute id="V2" type="float" value="1.0"/>
+                </node>
+            </children>
+        </node>
+    </region>
+    <region id="TextureAtlasInfo">
+        <node id="root">
+            <children>
+                <node id="TextureAtlasIconSize">
+                    <attribute id="Height" type="int64" value="64"/>
+                    <attribute id="Width" type="int64" value="64"/>
+                </node>
+                <node id="TextureAtlasPath">
+                    <attribute id="Path" type="LSString" value="Assets/Textures/Icons/CampBuffs_Icons.dds"/>
+                    <attribute id="UUID" type="FixedString" value="b2c3d4e5-f6a7-4b8c-9d0e-1f2a3b4c5d6e"/>
+                </node>
+                <node id="TextureAtlasTextureSize">
+                    <attribute id="Height" type="int64" value="64"/>
+                    <attribute id="Width" type="int64" value="64"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <content contentuid="hmod_ring_name" version="1">Kamp Buffları: Mod Buffları Yüzüğü</content>
+  <content contentuid="hmod_ring_desc" version="1">CampBuffs için ek eklenti yüzüğü. DnD 5.5e Artificer ve Mystra büyüleri bufflarını kısayol çubuğundaki pasif butonlarla sunar.</content>
+  <content contentuid="hmod_cast_name" version="1">Mod Kamp Bufflarını Uygula</content>
+  <content contentuid="hmod_cast_desc" version="1">Açık olan tüm DnD 5.5e ve Mystra kamp bufflarını 30 metre içindeki tüm müttefiklere uygular.</content>
+  <content contentuid="hmod_rem_name" version="1">Mod Kamp Bufflarını Kaldır</content>
+  <content contentuid="hmod_rem_desc" version="1">Uygulanmış tüm DnD 5.5e ve Mystra kamp bufflarını 30 metre içindeki tüm müttefiklerden kaldırır.</content>
+  <content contentuid="hmod_edef1_name" version="1">Mod Buffı: Gelişmiş Savunma (Enhanced Defense +1 AC)</content>
+  <content contentuid="hmod_edef1_desc" version="1">+1 Zırh Sınıfı (AC) sağlar.</content>
+  <content contentuid="hmod_edef2_name" version="1">Mod Buffı: Gelişmiş Savunma (Enhanced Defense +2 AC)</content>
+  <content contentuid="hmod_edef2_desc" version="1">+2 Zırh Sınıfı (AC) sağlar.</content>
+  <content contentuid="hmod_eweap1_name" version="1">Mod Buffı: Gelişmiş Silah (Enhanced Weapon +1)</content>
+  <content contentuid="hmod_eweap1_desc" version="1">Silah saldırı ve hasar zarlarına +1 bonus ekler.</content>
+  <content contentuid="hmod_eweap2_name" version="1">Mod Buffı: Gelişmiş Silah (Enhanced Weapon +2)</content>
+  <content contentuid="hmod_eweap2_desc" version="1">Silah saldırı ve hasar zarlarına +2 bonus ekler.</content>
+  <content contentuid="hmod_retweap_name" version="1">Mod Buffı: Geri Dönen Silah (Returning Weapon)</content>
+  <content contentuid="hmod_retweap_desc" version="1">Fırlatma ve silah saldırılarına +1 bonus verir; fırlatılan silahlar anında ele geri döner.</content>
+  <content contentuid="hmod_repshot_name" version="1">Mod Buffı: Seri Atış (Repeating Shot)</content>
+  <content contentuid="hmod_repshot_desc" version="1">Menzilli silahlara +1 saldırı/hasar bonusu ve kesintisiz büyülü mühimmat sağlar.</content>
+  <content contentuid="hmod_focus1_name" version="1">Mod Buffı: Gelişmiş Büyü Odağı (Enhanced Arcane Focus +1)</content>
+  <content contentuid="hmod_focus1_desc" version="1">Büyü Kurtulma Zorluğu (DC) ve Büyü Saldırı zarlarına +1 ekler.</content>
+  <content contentuid="hmod_focus2_name" version="1">Mod Buffı: Gelişmiş Büyü Odağı (Enhanced Arcane Focus +2)</content>
+  <content contentuid="hmod_focus2_desc" version="1">Büyü Kurtulma Zorluğu (DC) ve Büyü Saldırı zarlarına +2 ekler.</content>
+  <content contentuid="hmod_bag_name" version="1">Mod Buffı: Dipsiz Çanta (Bag of Holding)</content>
+  <content contentuid="hmod_bag_desc" version="1">Envanter taşıma kapasitesini 12.5 katına çıkarır.</content>
+  <content contentuid="hmod_armstr_name" version="1">Mod Buffı: Büyülü Güç Zırhı (Armor of Magical Strength)</content>
+  <content contentuid="hmod_armstr_desc" version="1">Kuvvet kontrollerine ve kurtarma zarlarına +2 ekler; yere düşmeye (Prone) karşı tam bağışıklık sağlar.</content>
+  <content contentuid="hmod_boots_name" version="1">Mod Buffı: Kıvrımlı Yol Çizmeleri (Boots of the Winding Path)</content>
+  <content contentuid="hmod_boots_desc" version="1">+3 metre hareket mesafesi kazandırır ve Puslu Adım (Misty Step) ışınlanmasını açar.</content>
+  <content contentuid="hmod_repshld_name" version="1">Mod Buffı: İtici Kalkan (Repulsion Shield)</content>
+  <content contentuid="hmod_repshld_desc" version="1">+1 Zırh Sınıfı (AC) ve +1 Kurtarma Zarları bonusu sağlar.</content>
+  <content contentuid="hmod_age_name" version="1">Mod Buffı: Seremoni - Reşit Olma (Coming of Age)</content>
+  <content contentuid="hmod_age_desc" version="1">Yetenek ve beceri kontrollerine +1d4 bonus sağlar.</content>
+  <content contentuid="hmod_ww_name" version="1">Mod Buffı: Suda Yürüme (Water Walk)</content>
+  <content contentuid="hmod_ww_desc" version="1">Zorlu zemin, kaygan yağ, lav, asit ve derin suya karşı tam bağışıklık sağlar.</content>
+  <content contentuid="hmod_alac_name" version="1">Mod Buffı: Çeviklik Hediyesi (Gift of Alacrity)</content>
+  <content contentuid="hmod_alac_desc" version="1">Savaş başlangıcında inisiyatif zarlarına +2 ve +1d8 devasa inisiyatif bonusu sağlar.</content>
+</contentList>

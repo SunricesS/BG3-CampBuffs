@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <content contentuid="h123456789abcdef0123456789abcdef01234" version="1">Camp Buffs Ring</content>
+  <content contentuid="h01a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8" version="1">Allows casting all chosen camp buffs in a single spell. Use hotbar passives to toggle which buffs to apply.</content>
+  <content contentuid="h7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b3c4" version="1">Cast Camp Buffs</content>
+  <content contentuid="h8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b3c4d5" version="1">Apply all enabled camp buffs to all party members in a 30m radius.</content>
+  <content contentuid="hrem01928ga812g4918g8123ga91823746152" version="1">Remove Camp Buffs</content>
+  <content contentuid="hrem12938gb923g4029g9234gb02934857263" version="1">Remove all applied camp buffs from all party members in a 30m radius.</content>
+  <content contentuid="h3a4b5c6d7e8f9a0b1c2d3e4f5a6b7c8d9e0" version="1">Camp Buff: Longstrider</content>
+  <content contentuid="h4b5c6d7e8f9a0b1c2d3e4f5a6b7c8d9e0f1" version="1">Include Longstrider (+3m movement) when casting Camp Buffs.</content>
+  <content contentuid="h5c6d7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2" version="1">Camp Buff: Mage Armor</content>
+  <content contentuid="h6d7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b3" version="1">Include Mage Armor (base AC 13 for unarmored) when casting Camp Buffs.</content>
+  <content contentuid="haid2_name_01928374" version="1">Camp Buff: Aid (Level 2: +5 HP)</content>
+  <content contentuid="haid2_desc_01928374" version="1">Include Aid at Level 2 (+5 max HP) when casting Camp Buffs.</content>
+  <content contentuid="haid3_name_01928374" version="1">Camp Buff: Aid (Level 3: +10 HP)</content>
+  <content contentuid="haid3_desc_01928374" version="1">Include Aid at Level 3 (+10 max HP) when casting Camp Buffs.</content>
+  <content contentuid="haid4_name_01928374" version="1">Camp Buff: Aid (Level 4: +15 HP)</content>
+  <content contentuid="haid4_desc_01928374" version="1">Include Aid at Level 4 (+15 max HP) when casting Camp Buffs.</content>
+  <content contentuid="haid5_name_01928374" version="1">Camp Buff: Aid (Level 5: +20 HP)</content>
+  <content contentuid="haid5_desc_01928374" version="1">Include Aid at Level 5 (+20 max HP) when casting Camp Buffs.</content>
+  <content contentuid="haid6_name_01928374" version="1">Camp Buff: Aid (Level 6: +25 HP)</content>
+  <content contentuid="haid6_desc_01928374" version="1">Include Aid at Level 6 (+25 max HP) when casting Camp Buffs.</content>
+  <content contentuid="hc1928374gf716g4318ga615g316274859102" version="1">Camp Buff: Death Ward</content>
+  <content contentuid="hd2837465ge615g4217gb514g205163748291" version="1">Include Death Ward (survive fatal hit with 1 HP) when casting Camp Buffs.</content>
+  <content contentuid="he1827364gb514g4116ga413g118495061273" version="1">Camp Buff: Freedom of Movement</content>
+  <content contentuid="hf0918273gc413g4015ga312g019506172384" version="1">Include Freedom of Movement (immune to paralysis, restraint, difficult terrain).</content>
+  <content contentuid="ha1928374gd312g4914gb211gf08493027164" version="1">Camp Buff: Protection from Poison</content>
+  <content contentuid="hb0918273ge211g4813ga110ge07382916253" version="1">Include Protection from Poison (resistance and advantage vs poison).</content>
+  <content contentuid="hc1827364gf110g4712ga009gd06271829364" version="1">Camp Buff: Darkvision</content>
+  <content contentuid="hd0918273ga009g4611g9f08gc05160718273" version="1">Include Darkvision (12m range in the dark) when casting Camp Buffs.</content>
+  <content contentuid="he1928374g9f08g4510g8e07gb04059607182" version="1">Camp Buff: Heroes' Feast</content>
+  <content contentuid="hf0827364g8e07g4409g7d06ga03948576192" version="1">Include Heroes' Feast (+12 max HP, poison/fear immunity, Wisdom save advantage).</content>
+  <content contentuid="ha0827364g7d06g4308g6c05g902837465182" version="1">Camp Buff: Speak with Animals</content>
+  <content contentuid="hb1726354g6c05g4207g5b04g801726354192" version="1">Include Speak with Animals when casting Camp Buffs.</content>
+  <content contentuid="hc1726354g5b04g4106g4a03g700615243182" version="1">Camp Buff: Daylight</content>
+  <content contentuid="hd0615243g4a03g4005g3902g609504132173" version="1">Include Daylight aura when casting Camp Buffs.</content>
+  <content contentuid="hguid01928ga812g4918g8123ga91823746152" version="1">Camp Buff: Guidance</content>
+  <content contentuid="hguid12938gb923g4029g9234gb02934857263" version="1">Include Guidance (+1d4 to ability checks) when casting Camp Buffs.</content>
+  <content contentuid="hbless0192ga812g4918g8123ga91823746152" version="1">Camp Buff: Bless</content>
+  <content contentuid="hbless1293gb923g4029g9234gb02934857263" version="1">Include Bless (+1d4 to attack rolls and saving throws) when casting Camp Buffs.</content>
+  <content contentuid="hfaith0192ga812g4918g8123ga91823746152" version="1">Camp Buff: Shield of Faith</content>
+  <content contentuid="hfaith1293gb923g4029g9234gb02934857263" version="1">Include Shield of Faith (+2 AC) when casting Camp Buffs.</content>
+  <content contentuid="hstone0192ga812g4918g8123ga91823746152" version="1">Camp Buff: Stoneskin</content>
+  <content contentuid="hstone1293gb923g4029g9234gb02934857263" version="1">Include Stoneskin (resistance to non-magical physical damage) when casting Camp Buffs.</content>
+  <content contentuid="hbark0192ga812g4918g8123ga91823746152" version="1">Camp Buff: Barkskin</content>
+  <content contentuid="hbark1293gb923g4029g9234gb02934857263" version="1">Include Barkskin (target AC cannot be less than 16) when casting Camp Buffs.</content>
+  <content contentuid="hseein0192ga812g4918g8123ga91823746152" version="1">Camp Buff: See Invisibility</content>
+  <content contentuid="hseein1293gb923g4029g9234gb02934857263" version="1">Include See Invisibility when casting Camp Buffs.</content>
+  <content contentuid="hfeath0192ga812g4918g8123ga91823746152" version="1">Camp Buff: Feather Fall</content>
+  <content contentuid="hfeath1293gb923g4029g9234gb02934857263" version="1">Include Feather Fall (immune to fall damage) when casting Camp Buffs.</content>
+  <content contentuid="hjump0192ga812g4918g8123ga91823746152" version="1">Camp Buff: Enhanced Leap</content>
+  <content contentuid="hjump1293gb923g4029g9234gb02934857263" version="1">Include Enhanced Leap (tripled jump distance) when casting Camp Buffs.</content>
+  <content contentuid="hhill0192ga812g4918g8123ga91823746152" version="1">Camp Buff: Hill Giant Strength</content>
+  <content contentuid="hhill1293gb923g4029g9234gb02934857263" version="1">Include Hill Giant Strength (Strength set to 21) when casting Camp Buffs.</content>
+  <content contentuid="hcloud0192ga812g4918g8123ga91823746152" version="1">Camp Buff: Cloud Giant Strength</content>
+  <content contentuid="hcloud1293gb923g4029g9234gb02934857263" version="1">Include Cloud Giant Strength (Strength set to 27) when casting Camp Buffs.</content>
+  <content contentuid="hmorn0192ga812g4918g8123ga91823746152" version="1">Camp Buff: Morninglord's Radiance</content>
+  <content contentuid="hmorn1293gb923g4029g9234gb02934857263" version="1">Include Morninglord's Radiance (+1d4 Radiant damage to weapon attacks).</content>
+  <content contentuid="he0615243g3902g4904g2801g508493021164" version="1">Camp Buff: Warding Bond</content>
+  <content contentuid="hf1524354g2801g4803g1700g407382910155" version="1">Include Camp Warding Bond (+1 AC, +1 Saves, Resistance to all damage).</content>
+</contentList>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="TextureBank">
+        <node id="TextureBank">
+            <children>
+                <node id="Resource">
+                    <attribute id="ID" type="FixedString" value="c3d4e5f6-a7b8-4c9d-0e1f-2a3b4c5d6e7f"/>
+                    <attribute id="Localized" type="bool" value="False"/>
+                    <attribute id="Name" type="LSString" value="CampBuffsModBuffs_Icons"/>
+                    <attribute id="SRGB" type="bool" value="True"/>
+                    <attribute id="SourceFile" type="LSString" value="Public/CampBuffsModBuffs/Assets/Textures/Icons/CampBuffsModBuffs_Icons.dds"/>
+                    <attribute id="Streaming" type="bool" value="True"/>
+                    <attribute id="Template" type="FixedString" value="CampBuffsModBuffs_Icons"/>
+                    <attribute id="Type" type="int32" value="0"/>
+                    <attribute id="_OriginalFileVersion_" type="int64" value="144115188075855872"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

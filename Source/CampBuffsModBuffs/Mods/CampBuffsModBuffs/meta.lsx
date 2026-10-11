@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="Config">
+        <node id="root">
+            <children>
+                <node id="Conflicts"/>
+                <node id="Dependencies">
+                    <children>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" type="LSString" value="GustavDev"/>
+                            <attribute id="MD5" type="LSString" value="33c1655f7ae3559b579ff3b9d2c45413"/>
+                            <attribute id="Name" type="LSString" value="GustavDev"/>
+                            <attribute id="PublishHandle" type="uint64" value="0"/>
+                            <attribute id="UUID" type="guid" value="28ac9ce2-2aba-8cda-b3b5-6e922f71b6b8"/>
+                            <attribute id="Version64" type="int64" value="145100779997082619"/>
+                        </node>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" type="LSString" value="CampBuffs"/>
+                            <attribute id="MD5" type="LSString" value=""/>
+                            <attribute id="Name" type="LSString" value="CampBuffs"/>
+                            <attribute id="PublishHandle" type="uint64" value="0"/>
+                            <attribute id="UUID" type="guid" value="7cf9c6d5-936e-4f8d-8052-d71f42920844"/>
+                            <attribute id="Version64" type="int64" value="36028797018963968"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="ModuleInfo">
+                    <attribute id="Author" type="LSString" value="UniversalModder"/>
+                    <attribute id="CharacterCreationLevelName" type="FixedString" value=""/>
+                    <attribute id="Description" type="LSString" value="Addon for CampBuffs requiring CampBuffs. Adds DnD 5.5e Artificer Infusions and Mystra's Spells camp buffs."/>
+                    <attribute id="FileSize" type="uint64" value="0"/>
+                    <attribute id="Folder" type="LSString" value="CampBuffsModBuffs"/>
+                    <attribute id="LobbyLevelName" type="FixedString" value=""/>
+                    <attribute id="MD5" type="LSString" value=""/>
+                    <attribute id="MenuLevelName" type="FixedString" value=""/>
+                    <attribute id="Name" type="LSString" value="CampBuffsModBuffs"/>
+                    <attribute id="NumPlayers" type="uint8" value="4"/>
+                    <attribute id="PhotoBooth" type="FixedString" value=""/>
+                    <attribute id="PublishHandle" type="uint64" value="0"/>
+                    <attribute id="StartupLevelName" type="FixedString" value=""/>
+                    <attribute id="UUID" type="FixedString" value="e4a7d182-59f3-4bc8-8c10-3d71e892c431"/>
+                    <attribute id="Version64" type="int64" value="36028797018963968"/>
+                    <children>
+                        <node id="PublishVersion">
+                            <attribute id="Version64" type="int64" value="144255927717549775"/>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

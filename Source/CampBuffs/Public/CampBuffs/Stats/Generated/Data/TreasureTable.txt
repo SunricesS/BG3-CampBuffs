@@ -1,0 +1,909 @@
+new treasuretable "CRE_Expeditioner_Magic_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "CRE_Expeditioner_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "CRE_Expeditioner_Trade_AMP"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "CRE_Expeditioner_Trade_None"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "CRE_GithQuartermistress_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "CRE_GithQuartermistress_Trade_AMP"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "CRE_GithQuartermistress_Trade_None"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "CRE_MagicItem_Gith_Trader"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "DEN_Apprentice_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "DEN_Entrance_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "DEN_Entrance_Trade_AMP"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "DEN_Entrance_Trade_None"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "DEN_Ethel"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "DEN_Ethel_AMP"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "DEN_Ethel_None"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "DEN_Prodigy"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "DEN_Prodigy_AMP"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "DEN_Prodigy_None"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "DEN_Thiefling_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "DEN_Thiefling_Trade_AMP"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "DEN_Thiefling_Trade_None"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "DEN_Thieflings_Merchant"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "DEN_Volo_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "DEN_Volo_Trade_AMP"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "DEN_Volo_Trade_None"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "DEN_Weaponsmith"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "DEN_Weaponsmith_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "DEN_Weaponsmith_Trade_AMP"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "DEN_Weaponsmith_Trade_None"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "END_CircusTrader"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "FOR_UnfortunateGnomeTrader"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "FOR_UnfortunateGnomeTrader_AMP"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "FOR_UnfortunateGnomeTrader_None"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "Florrick_Trader"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "GOB_Dwarf_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "GOB_Festivities_Trader"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "GOB_Festivities_Trader_AMP"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "GOB_Festivities_Trader_GoblinWeapons"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "GOB_Festivities_Trader_None"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "GOB_Quartermaster"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "GOB_Quartermaster_AMP"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "GOB_Quartermaster_None"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "HAV_HarperQuarterMaster"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "HAV_HarperQuarterMaster_AMP"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "HAV_HarperQuarterMaster_Magic_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "HAV_HarperQuarterMaster_None"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "HAV_Thiefling_Ide_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "HAV_Thiefling_Ide_Trade_AMP"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "HAV_Thiefling_Ide_Trade_None"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "HAV_Thiefling_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "HAV_Thiefling_Trade_AMP"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "HAV_Thiefling_Trade_None"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "HAV_UnfortunateGnome_Magic_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "HAV_UnfortunateGnome_Magic_Trade_AMP"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "HAV_UnfortunateGnome_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "HAV_UnfortunateGnome_Trade_AMP"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "HAV_UnfortunateGnome_Trade_None"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "HAV_Weaponsmith_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "HAV_Weaponsmith_Trade_AMP"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "HAV_Weaponsmith_Trade_None"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_Apothecary_Bonecloak_HasNobleStalk"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_Apothecary_Bonecloak_HasNobleStalk_AMP"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_Apothecary_Bonecloak_HasNobleStalk_None"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_Apothecary_Bonecloak_NoNobleStalk"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_Apothecary_Bonecloak_NoNobleStalk_AMP"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_Apothecary_Bonecloak_NoNobleStalk_None"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_DevilsFee_Diabolist_Trade_Magic"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_DevilsFee_Diabolist_Trade_Magic_AMP"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_DevilsFee_Diabolist_Trade_Magic_None"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_GeneralStoreDragonborn_Merchant"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_Guildhall_Bartender"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_Guildhall_Bartender_AMP"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_Guildhall_Bartender_None"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_Guildhall_FetchersBrat_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_Guildhall_FetchersBrat_Trade_AMP"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_Guildhall_FetchersBrat_Trade_Magic"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_Guildhall_FetchersBrat_Trade_None"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_InfernalTrade"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_InfernalTrade_AMP"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_InfernalTrade_None"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_MurderTribunal_Merchant"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_MurderTribunal_Merchant_AMP"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_MurderTribunal_Merchant_None"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_MysticCarrion_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_MysticCarrion_Trade_AMP"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_MysticCarrion_Trade_Magic"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_MysticCarrion_Trade_None"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_SorcerousSundries_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_SorcerousSundries_Trade_AMP"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_SorcerousSundries_Trade_Magic"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_SorcerousSundries_Trade_None"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_SteepsTrader_Armor"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_SteepsTrader_Armor_AMP"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_SteepsTrader_Armor_None"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_SteepsTrader_Weapons"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_SteepsTrader_Weapons_AMP"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_SteepsTrader_Weapons_None"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_StormshoreTabernacle_Guardian"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_StormshoreTabernacle_Guardian_AMP"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_StormshoreTabernacle_Guardian_None"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_VoicelessPenitent"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_VoicelessPenitent_AMP"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_VoicelessPenitent_None"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_Weaponsmith_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_Weaponsmith_Trade_AMP"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_Weaponsmith_Trade_None"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "MOO_BugBearVendor_PrivateStash"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "MOO_BugBearVendor_PrivateStash_AMP"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "MOO_BugBearVendor_PrivateStash_None"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "MOO_BugBearvendor_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "MOO_BugBearvendor_Trade_AMP"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "MOO_BugBearvendor_Trade_None"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "MOO_InfernalTrader_SpecialStock"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "MOO_InfernalTrader_SpecialStock_AMP"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "MOO_InfernalTrader_SpecialStock_None"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "MOO_InfernalTrader_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "MOO_InfernalTrader_Trade_AMP"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "MOO_InfernalTrader_Trade_None"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "MOO_ZhentQuartermaster"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "MOO_ZhentQuartermaster_AMP"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "MOO_ZhentQuartermaster_None"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "PLA_Tollhouse_SuppliesTrader"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "PLA_Tollhouse_SuppliesTrader_AMP"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "PLA_Tollhouse_SuppliesTrader_None"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "PLA_ZhentarimTrader"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "PLA_ZhentarimTrader_AMP"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "PLA_ZhentarimTrader_Extra"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "PLA_ZhentarimTrader_Extra_AMP"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "PLA_ZhentarimTrader_Extra_None"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "PLA_ZhentarimTrader_None"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "TUT_Chest_Potions"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "UND_KC_Trader_Weapons"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "UND_KC_Trader_Weapons_AMP"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "UND_KC_Trader_Weapons_None"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "UND_MycoVillage_AlchemistDwarf_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "UND_MycoVillage_AlchemistDwarf_Trade_AMP"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "UND_MycoVillage_AlchemistDwarf_Trade_Magic"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "UND_MycoVillage_AlchemistDwarf_Trade_Magic_AMP"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "UND_MycoVillage_AlchemistDwarf_Trade_Magic_None"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "UND_MycoVillage_AlchemistDwarf_Trade_None"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "UND_SocietyOfBrilliance_Hobgoblin"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "UND_SocietyOfBrilliance_Hobgoblin_AMP"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "UND_SocietyOfBrilliance_Hobgoblin_None"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "UND_SocietyOfBrilliance_Mindflayer"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "UND_SocietyOfBrilliance_Mindflayer_AMP"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "UND_SocietyOfBrilliance_Mindflayer_None"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "UND_SocietyOfBrilliance_Omeluum"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "WYR_Circus_KoboldMerchant"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "WYR_Circus_KoboldMerchant_AMP"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "WYR_Circus_KoboldMerchant_Magic"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "WYR_Circus_KoboldMerchant_Magic_AMP"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "WYR_Circus_KoboldMerchant_None"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "WYR_Danthelon_Trader"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "WYR_Danthelon_Trader_AMP"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "WYR_Danthelon_Trader_None"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "WYR_Ironhand_Magic_Merchant"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "WYR_Ironhand_Magic_Merchant_AMP"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "WYR_Ironhand_Magic_Merchant_None"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "WYR_Ironhand_Merchant"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "WYR_Ironhand_Merchant_AMP"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "WYR_Ironhand_Merchant_None"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "WYR_OrinsImpersonation_Smith"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "WYR_OrinsImpersonation_Smith_AMP"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "WYR_OrinsImpersonation_Smith_None"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "WYR_SharessCaress_Bartender_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "WYR_SharessCaress_Bartender_Trade_AMP"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "WYR_SharessCaress_Bartender_Trade_None"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "WYR_SharessCaress_Bartender_Trade_Potent"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "WYR_SharessCaress_Bartender_Trade_Potent_AMP"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "WYR_SharessCaress_Bartender_Trade_Potent_None"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "WYR_SharranInformer_Basic"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "WYR_SharranInformer_Basic_AMP"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "WYR_SharranInformer_Basic_None"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "WYR_SharranInformer_Extended"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "WYR_SharranInformer_Extended_AMP"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "WYR_SharranInformer_Extended_None"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "WYR_Thiefling_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "WYR_Thiefling_Trade_AMP"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "WYR_Thiefling_Trade_None"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "WYR_UnfortunateGnome"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "WYR_UnfortunateGnome_AMP"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "WYR_UnfortunateGnome_None"
+CanMerge 1
+new subtable "1,1"
+object category "I_CampBuffs_Ring",1,0,0,0,0,0,0,0

@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+
+# Intermediate build directories
+build_campbuffs/
+build_campbuffs_modbuffs/
+
+# Operating System & Editor artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.tmp

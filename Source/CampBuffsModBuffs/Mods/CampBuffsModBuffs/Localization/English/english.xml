@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <content contentuid="hmod_ring_name" version="1">Camp Buffs: Mod Buffs Ring</content>
+  <content contentuid="hmod_ring_desc" version="1">Addon ring for CampBuffs. Grants DnD 5.5e Artificer Infusions and Mystra's Spells buffs with hotbar toggles.</content>
+  <content contentuid="hmod_cast_name" version="1">Cast Modded Camp Buffs</content>
+  <content contentuid="hmod_cast_desc" version="1">Apply all enabled DnD 5.5e and Mystra camp buffs to all party members in a 30m radius.</content>
+  <content contentuid="hmod_rem_name" version="1">Remove Modded Camp Buffs</content>
+  <content contentuid="hmod_rem_desc" version="1">Remove all applied DnD 5.5e and Mystra camp buffs from party members in a 30m radius.</content>
+  <content contentuid="hmod_edef1_name" version="1">Mod Buff: Enhanced Defense (+1 AC)</content>
+  <content contentuid="hmod_edef1_desc" version="1">Include Artificer Enhanced Defense (+1 AC) when casting Camp Buffs.</content>
+  <content contentuid="hmod_edef2_name" version="1">Mod Buff: Enhanced Defense (+2 AC)</content>
+  <content contentuid="hmod_edef2_desc" version="1">Include Artificer Enhanced Defense (+2 AC) when casting Camp Buffs.</content>
+  <content contentuid="hmod_eweap1_name" version="1">Mod Buff: Enhanced Weapon (+1)</content>
+  <content contentuid="hmod_eweap1_desc" version="1">Include Artificer Enhanced Weapon (+1 Attack and Damage) when casting Camp Buffs.</content>
+  <content contentuid="hmod_eweap2_name" version="1">Mod Buff: Enhanced Weapon (+2)</content>
+  <content contentuid="hmod_eweap2_desc" version="1">Include Artificer Enhanced Weapon (+2 Attack and Damage) when casting Camp Buffs.</content>
+  <content contentuid="hmod_retweap_name" version="1">Mod Buff: Returning Weapon</content>
+  <content contentuid="hmod_retweap_desc" version="1">Include Artificer Returning Weapon (+1 attack/damage, thrown weapons return to hand) when casting Camp Buffs.</content>
+  <content contentuid="hmod_repshot_name" version="1">Mod Buff: Repeating Shot</content>
+  <content contentuid="hmod_repshot_desc" version="1">Include Artificer Repeating Shot (+1 ranged attack/damage, magical repeating ammo) when casting Camp Buffs.</content>
+  <content contentuid="hmod_focus1_name" version="1">Mod Buff: Enhanced Arcane Focus (+1)</content>
+  <content contentuid="hmod_focus1_desc" version="1">Include Artificer Enhanced Arcane Focus (+1 Spell Attack &amp; Spell Save DC) when casting Camp Buffs.</content>
+  <content contentuid="hmod_focus2_name" version="1">Mod Buff: Enhanced Arcane Focus (+2)</content>
+  <content contentuid="hmod_focus2_desc" version="1">Include Artificer Enhanced Arcane Focus (+2 Spell Attack &amp; Spell Save DC) when casting Camp Buffs.</content>
+  <content contentuid="hmod_bag_name" version="1">Mod Buff: Bag of Holding</content>
+  <content contentuid="hmod_bag_desc" version="1">Include Artificer Bag of Holding (12.5x carrying capacity multiplier) when casting Camp Buffs.</content>
+  <content contentuid="hmod_armstr_name" version="1">Mod Buff: Armor of Magical Strength</content>
+  <content contentuid="hmod_armstr_desc" version="1">Include Artificer Armor of Magical Strength (+2 Strength checks/saves, immunity to prone/knockdown) when casting Camp Buffs.</content>
+  <content contentuid="hmod_boots_name" version="1">Mod Buff: Boots of the Winding Path</content>
+  <content contentuid="hmod_boots_desc" version="1">Include Artificer Boots of the Winding Path (+3m movement speed, Misty Step teleport) when casting Camp Buffs.</content>
+  <content contentuid="hmod_repshld_name" version="1">Mod Buff: Repulsion Shield</content>
+  <content contentuid="hmod_repshld_desc" version="1">Include Artificer Repulsion Shield (+1 AC, +1 Saves) when casting Camp Buffs.</content>
+  <content contentuid="hmod_age_name" version="1">Mod Buff: Ceremony - Coming of Age</content>
+  <content contentuid="hmod_age_desc" version="1">Include Mystra's Ceremony: Coming of Age (+1d4 to ability &amp; skill checks) when casting Camp Buffs.</content>
+  <content contentuid="hmod_ww_name" version="1">Mod Buff: Water Walk</content>
+  <content contentuid="hmod_ww_desc" version="1">Include Mystra's Water Walk (immunity to difficult terrain, grease, acid, lava) when casting Camp Buffs.</content>
+  <content contentuid="hmod_alac_name" version="1">Mod Buff: Gift of Alacrity</content>
+  <content contentuid="hmod_alac_desc" version="1">Include Mystra's Gift of Alacrity (+2 and +1d8 Initiative bonus) when casting Camp Buffs.</content>
+</contentList>
